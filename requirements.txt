@@ -1,0 +1,7 @@
+torch
+torchvision
+torchmetrics
+Pillow
+tqdm
+mlflow
+matplotlib
